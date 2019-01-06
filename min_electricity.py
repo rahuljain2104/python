@@ -14,6 +14,7 @@
 #
 # Output
 # Print one number — the minimum total number of problems students should solve to form exactly n2 teams.
+# code below
 
 N=int(input())
 strength = [int(i) for i in input().split()]
